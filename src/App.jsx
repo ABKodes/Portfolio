@@ -3,7 +3,7 @@ import HeroDevice from './assets/hero-devices.svg'
 import About from './About'
 import Testimonial from './Testimonial';
 import Footer from './footer';
-import Contact from './Contact';
+import Contact from './contact';
 function App() {
   return (
     <>
