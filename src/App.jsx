@@ -2,7 +2,7 @@ import SelfImage from './assets/mf-avatar.svg'
 import HeroDevice from './assets/hero-devices.svg'
 import About from './About'
 import Testimonial from './Testimonial';
-import Footer from './Footer';
+import Footer from './footer';
 import Contact from './Contact';
 function App() {
   return (
